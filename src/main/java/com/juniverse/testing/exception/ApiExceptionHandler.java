@@ -1,8 +1,5 @@
-package com.juniverse.testing.web;
+package com.juniverse.testing.exception;
 
-import com.juniverse.testing.exception.OrderNotFoundException;
-import com.juniverse.testing.exception.OutOfStockException;
-import com.juniverse.testing.exception.PaymentFailedException;
 import java.util.Map;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

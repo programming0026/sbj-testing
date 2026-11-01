@@ -1,4 +1,4 @@
-package com.juniverse.testing.web;
+package com.juniverse.testing.controller;
 
 import com.juniverse.testing.model.Order;
 import com.juniverse.testing.model.PlaceOrderRequest;

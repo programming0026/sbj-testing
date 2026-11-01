@@ -1,4 +1,4 @@
-package com.juniverse.testing.web;
+package com.juniverse.testing.controller;
 
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.verify;
@@ -30,6 +30,7 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
+import com.juniverse.testing.exception.ApiExceptionHandler;
 
 /**
  * Prueba de la capa web SIN levantar Spring: {@code MockMvc} en modo "standalone" con el servicio simulado por Mockito.
