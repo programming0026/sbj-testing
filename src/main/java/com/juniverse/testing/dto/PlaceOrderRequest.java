@@ -1,5 +1,7 @@
-package com.juniverse.testing.model;
+package com.juniverse.testing.dto;
 
+import com.juniverse.testing.model.CustomerTier;
+import com.juniverse.testing.model.Item;
 import java.util.List;
 
 /**

@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import com.juniverse.testing.model.CustomerTier;
 import com.juniverse.testing.model.Item;
 import com.juniverse.testing.model.Order;
-import com.juniverse.testing.model.PlaceOrderRequest;
+import com.juniverse.testing.dto.PlaceOrderRequest;
 import com.juniverse.testing.repository.InMemoryOrderRepository;
 import java.math.BigDecimal;
 import java.time.Clock;

@@ -15,7 +15,7 @@ import com.juniverse.testing.exception.PaymentFailedException;
 import com.juniverse.testing.model.CustomerTier;
 import com.juniverse.testing.model.Order;
 import com.juniverse.testing.model.OrderStatus;
-import com.juniverse.testing.model.PlaceOrderRequest;
+import com.juniverse.testing.dto.PlaceOrderRequest;
 import com.juniverse.testing.service.OrderService;
 import java.math.BigDecimal;
 import java.time.Instant;

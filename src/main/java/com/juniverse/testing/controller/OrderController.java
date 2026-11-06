@@ -1,7 +1,7 @@
 package com.juniverse.testing.controller;
 
 import com.juniverse.testing.model.Order;
-import com.juniverse.testing.model.PlaceOrderRequest;
+import com.juniverse.testing.dto.PlaceOrderRequest;
 import com.juniverse.testing.service.OrderService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.GetMapping;

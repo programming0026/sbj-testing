@@ -87,6 +87,7 @@ El inventario de ejemplo tiene `TECLADO` (10), `RATON` (25) y `MONITOR` (3). Par
 ```text
 src/main/java/com/juniverse/testing/
 ├── model/ exception/ util/        # datos, errores y validación de correos (ApiExceptionHandler en exception/)
+├── dto/                           # PlaceOrderRequest
 ├── service/                       # OrderService, PricingService y los puertos
 ├── repository/                    # OrderRepository y su versión en memoria
 ├── infrastructure/                # implementaciones de ejemplo de los puertos

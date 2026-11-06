@@ -12,7 +12,7 @@ import com.juniverse.testing.exception.PaymentFailedException;
 import com.juniverse.testing.model.CustomerTier;
 import com.juniverse.testing.model.Item;
 import com.juniverse.testing.model.Order;
-import com.juniverse.testing.model.PlaceOrderRequest;
+import com.juniverse.testing.dto.PlaceOrderRequest;
 import com.juniverse.testing.service.NotificationService;
 import com.juniverse.testing.service.OrderService;
 import com.juniverse.testing.service.PaymentGateway;
